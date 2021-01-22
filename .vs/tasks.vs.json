@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-01_DB_Create",
+      "appliesTo": "SQL/01_DB_Create.sql",
+      "type": "launch"
+    }
+  ]
+}
