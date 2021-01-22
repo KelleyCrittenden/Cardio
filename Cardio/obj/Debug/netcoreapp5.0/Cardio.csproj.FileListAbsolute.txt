@@ -1,0 +1,6 @@
+C:\Users\Kelley\workspace\Cardio\Cardio\obj\Debug\netcoreapp5.0\Cardio.csprojAssemblyReference.cache
+C:\Users\Kelley\workspace\Cardio\Cardio\obj\Debug\netcoreapp5.0\Cardio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelley\workspace\Cardio\Cardio\obj\Debug\netcoreapp5.0\Cardio.AssemblyInfoInputs.cache
+C:\Users\Kelley\workspace\Cardio\Cardio\obj\Debug\netcoreapp5.0\Cardio.AssemblyInfo.cs
+C:\Users\Kelley\workspace\Cardio\Cardio\obj\Debug\netcoreapp5.0\Cardio.csproj.CoreCompileInputs.cache
+C:\Users\Kelley\workspace\Cardio\Cardio\obj\Debug\netcoreapp5.0\Cardio.MvcApplicationPartsAssemblyInfo.cache
